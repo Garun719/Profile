@@ -1,0 +1,22 @@
+body{
+   text-align: center;
+   background: rgba(93, 98, 87, 0.163);
+   
+}
+
+img{
+    width: 200px;
+    height: 250px;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    line-height: 2.5rem;
+}
+
+.my-img{
+    
+      border-radius: 70%;
+      width: 278px;
+
+    }
